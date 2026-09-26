@@ -1,4 +1,5 @@
-ism = "muhammadiso"
-son = 1234
+son = 12
+print(son + son)
+
 
 
