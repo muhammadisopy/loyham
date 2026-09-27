@@ -1,7 +1,6 @@
-son = 12
-print(son - 2)
-print(son + 2)
-n = son % 2 // 0
+son = 13
+n = son % 2 == 0
+n2 = son % 2 != 0
+print(n2)
 print(n)
-
 
