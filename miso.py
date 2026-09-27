@@ -1,2 +1,3 @@
-son = 132
-ism = "muhammadiso"
+s = 132
+print(s % 2 == 0)
+print(s % 2 != 0)
