@@ -1,1 +1,2 @@
-meva = "kivi"
+son = 132
+ism = "muhammadiso"
